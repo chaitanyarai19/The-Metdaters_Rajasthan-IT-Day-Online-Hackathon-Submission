@@ -98,21 +98,6 @@ Home Screen | Components Page
 ![Screenshot (1)](https://user-images.githubusercontent.com/95706615/209866743-6092f0ae-dd0b-4c6b-981e-52084d748293.png) | ![Screenshot (2)](https://user-images.githubusercontent.com/95706615/209866752-544182a3-b007-4d67-8d1a-70525697bcf2.png)
 
 
-
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-## Contributions :handshake:
-We all belong to the same college, and have attended many hackathons together . We got motivation to participate from our seniors who were the India finalists in Imagine Cup last two years.
-
-Ankita Roy: Gyan Ganga Institute of Technology and Sciences,B.tech,2019-23.Skilled in C, C++, GitHub, HTML, CSS, Python.
-
-Ishween Khatri: Gyan Ganga Institute of Technology and Sciences,B.tech,2020-24.Skilled in C, Cpp, HTML, CSS, JavaScript, SQL, Github. 
-
-Yashika Jotwani: Gyan Ganga Institute of Technology and Sciences,B.tech,2019-23.Skilled in C, C++, Python, React Js, Django, HTML, CSS. 
-
-Vedant Jain: Gyan Ganga Institute of Technology and Sciences,B.tech,2019-23,Skilled in C, C++, HTML, CSS, JS, React, Node, Express, MongoDB, git, GitHub, rails.
-
-
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## Tech stack :book:
 - **Backend**-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
