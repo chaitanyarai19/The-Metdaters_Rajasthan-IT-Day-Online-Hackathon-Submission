@@ -1,0 +1,24 @@
+.star-rating {
+  line-height:32px;
+  font-size:1.25em;
+}
+.star-rating .fa-star{color: #ff9f00;}
+.highlight {
+    background: #ffbf00 !important;
+	color:white;
+}
+.search_icon{
+	width: 300px !important;
+}
+.star-rating {
+  line-height:12px;
+  font-size:1.25em;
+  padding-left:20px;
+  padding-top:10px;
+}
+.star-rating1 {
+  line-height:32px;
+  font-size:1.25em;
+}
+.star-rating1 .fa-star{color: #ff9f00;}
+.star-rating .fa-star{color: #ff9f00;}

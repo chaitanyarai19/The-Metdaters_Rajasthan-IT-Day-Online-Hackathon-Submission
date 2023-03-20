@@ -1,0 +1,156 @@
+[12-Aug-2020 01:50:48 America/New_York] PHP Notice:  Undefined index: all in /home/apnakira/public_html/ROZERPAY/pay.php on line 8
+[12-Aug-2020 01:50:49 America/New_York] PHP Fatal error:  Uncaught exception 'Razorpay\Api\Errors\BadRequestError' with message 'The amount must be atleast INR 1.00' in /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php:120
+Stack trace:
+#0 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'orders/', Array)
+#3 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Order.php(12): Razorpay\Api\Entity->create(Array)
+#5 /home/apnakira/public_html/ROZERPAY/pay.php(25): Razorpay\Api\Order->create(Array)
+#6 {main}
+  thrown in /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php on line 120
+[12-Aug-2020 01:51:41 America/New_York] PHP Notice:  Undefined index: all in /home/apnakira/public_html/ROZERPAY/pay.php on line 8
+[12-Aug-2020 01:51:42 America/New_York] PHP Fatal error:  Uncaught exception 'Razorpay\Api\Errors\BadRequestError' with message 'The amount must be atleast INR 1.00' in /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php:120
+Stack trace:
+#0 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'orders/', Array)
+#3 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Order.php(12): Razorpay\Api\Entity->create(Array)
+#5 /home/apnakira/public_html/ROZERPAY/pay.php(25): Razorpay\Api\Order->create(Array)
+#6 {main}
+  thrown in /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php on line 120
+[12-Aug-2020 01:51:47 America/New_York] PHP Notice:  Undefined index: all in /home/apnakira/public_html/ROZERPAY/pay.php on line 8
+[12-Aug-2020 01:51:48 America/New_York] PHP Fatal error:  Uncaught exception 'Razorpay\Api\Errors\BadRequestError' with message 'The amount must be atleast INR 1.00' in /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php:120
+Stack trace:
+#0 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'orders/', Array)
+#3 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Order.php(12): Razorpay\Api\Entity->create(Array)
+#5 /home/apnakira/public_html/ROZERPAY/pay.php(25): Razorpay\Api\Order->create(Array)
+#6 {main}
+  thrown in /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php on line 120
+[12-Aug-2020 01:52:17 America/New_York] PHP Notice:  Undefined index: all in /home/apnakira/public_html/ROZERPAY/pay.php on line 8
+[12-Aug-2020 01:52:18 America/New_York] PHP Fatal error:  Uncaught exception 'Razorpay\Api\Errors\BadRequestError' with message 'The amount must be atleast INR 1.00' in /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php:120
+Stack trace:
+#0 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'orders/', Array)
+#3 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Order.php(12): Razorpay\Api\Entity->create(Array)
+#5 /home/apnakira/public_html/ROZERPAY/pay.php(25): Razorpay\Api\Order->create(Array)
+#6 {main}
+  thrown in /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php on line 120
+[12-Aug-2020 01:52:23 America/New_York] PHP Notice:  Undefined index: all in /home/apnakira/public_html/ROZERPAY/pay.php on line 8
+[12-Aug-2020 01:52:24 America/New_York] PHP Fatal error:  Uncaught exception 'Razorpay\Api\Errors\BadRequestError' with message 'The amount must be atleast INR 1.00' in /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php:120
+Stack trace:
+#0 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'orders/', Array)
+#3 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Order.php(12): Razorpay\Api\Entity->create(Array)
+#5 /home/apnakira/public_html/ROZERPAY/pay.php(25): Razorpay\Api\Order->create(Array)
+#6 {main}
+  thrown in /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php on line 120
+[12-Aug-2020 01:53:14 America/New_York] PHP Notice:  Undefined index: all in /home/apnakira/public_html/ROZERPAY/pay.php on line 8
+[12-Aug-2020 01:53:15 America/New_York] PHP Fatal error:  Uncaught exception 'Razorpay\Api\Errors\BadRequestError' with message 'The amount must be atleast INR 1.00' in /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php:120
+Stack trace:
+#0 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'orders/', Array)
+#3 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Order.php(12): Razorpay\Api\Entity->create(Array)
+#5 /home/apnakira/public_html/ROZERPAY/pay.php(25): Razorpay\Api\Order->create(Array)
+#6 {main}
+  thrown in /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php on line 120
+[12-Aug-2020 02:12:36 America/New_York] PHP Notice:  Undefined index: all in /home/apnakira/public_html/ROZERPAY/pay.php on line 8
+[12-Aug-2020 02:12:37 America/New_York] PHP Fatal error:  Uncaught exception 'Razorpay\Api\Errors\BadRequestError' with message 'The amount must be atleast INR 1.00' in /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php:120
+Stack trace:
+#0 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'orders/', Array)
+#3 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Order.php(12): Razorpay\Api\Entity->create(Array)
+#5 /home/apnakira/public_html/ROZERPAY/pay.php(25): Razorpay\Api\Order->create(Array)
+#6 {main}
+  thrown in /home/apnakira/public_html/ROZERPAY/razorpay-php/src/Request.php on line 120
+[26-Aug-2020 02:26:10] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_CONSTANT_ENCAPSED_STRING or '(' in /home/apnakira/public_html/rozerpay/pay.php on line 10
+[26-Aug-2020 02:26:13] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_CONSTANT_ENCAPSED_STRING or '(' in /home/apnakira/public_html/rozerpay/pay.php on line 10
+[26-Aug-2020 06:01:53 America/New_York] PHP Notice:  Undefined index: total in /home/apnakira/public_html/rozerpay/pay.php on line 8
+[26-Aug-2020 06:01:54 America/New_York] PHP Fatal error:  Uncaught exception 'Razorpay\Api\Errors\BadRequestError' with message 'The amount must be atleast INR 1.00' in /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php:120
+Stack trace:
+#0 /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/apnakira/public_html/rozerpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'orders/', Array)
+#3 /home/apnakira/public_html/rozerpay/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/apnakira/public_html/rozerpay/razorpay-php/src/Order.php(12): Razorpay\Api\Entity->create(Array)
+#5 /home/apnakira/public_html/rozerpay/pay.php(25): Razorpay\Api\Order->create(Array)
+#6 {main}
+  thrown in /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php on line 120
+[01-Sep-2020 02:10:47 America/New_York] PHP Notice:  Undefined index: razorpay_payment_id in /home/apnakira/public_html/rozerpay/verify.php on line 42
+[01-Sep-2020 02:44:55 America/New_York] PHP Fatal error:  Uncaught exception 'Razorpay\Api\Errors\BadRequestError' with message 'The amount must be atleast INR 1.00' in /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php:120
+Stack trace:
+#0 /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/apnakira/public_html/rozerpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'orders/', Array)
+#3 /home/apnakira/public_html/rozerpay/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/apnakira/public_html/rozerpay/razorpay-php/src/Order.php(12): Razorpay\Api\Entity->create(Array)
+#5 /home/apnakira/public_html/rozerpay/pay.php(25): Razorpay\Api\Order->create(Array)
+#6 {main}
+  thrown in /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php on line 120
+[01-Sep-2020 06:19:36 America/New_York] PHP Notice:  Undefined index: total in /home/apnakira/public_html/rozerpay/pay.php on line 8
+[01-Sep-2020 06:19:38 America/New_York] PHP Fatal error:  Uncaught exception 'Razorpay\Api\Errors\BadRequestError' with message 'The amount must be atleast INR 1.00' in /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php:120
+Stack trace:
+#0 /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/apnakira/public_html/rozerpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'orders/', Array)
+#3 /home/apnakira/public_html/rozerpay/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/apnakira/public_html/rozerpay/razorpay-php/src/Order.php(12): Razorpay\Api\Entity->create(Array)
+#5 /home/apnakira/public_html/rozerpay/pay.php(25): Razorpay\Api\Order->create(Array)
+#6 {main}
+  thrown in /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php on line 120
+[04-Sep-2020 09:34:42 America/New_York] PHP Fatal error:  Uncaught exception 'Requests_Exception' with message 'cURL error 28: Operation timed out after 60001 milliseconds with 0 bytes received' in /home/apnakira/public_html/rozerpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/apnakira/public_html/rozerpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/apnakira/public_html/rozerpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/apnakira/public_html/rozerpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'orders/', Array)
+#4 /home/apnakira/public_html/rozerpay/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#5 /home/apnakira/pu in /home/apnakira/public_html/rozerpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[04-Sep-2020 09:35:54 America/New_York] PHP Fatal error:  Uncaught exception 'Requests_Exception' with message 'cURL error 28: Operation timed out after 60001 milliseconds with 0 bytes received' in /home/apnakira/public_html/rozerpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/apnakira/public_html/rozerpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/apnakira/public_html/rozerpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/apnakira/public_html/rozerpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'orders/', Array)
+#4 /home/apnakira/public_html/rozerpay/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#5 /home/apnakira/pu in /home/apnakira/public_html/rozerpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[04-Sep-2020 09:36:39 America/New_York] PHP Fatal error:  Uncaught exception 'Razorpay\Api\Errors\ServerError' with message 'The server did not send back a well-formed response. 
+Server Response: ' in /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php:131
+Stack trace:
+#0 /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php(193): Razorpay\Api\Request->throwServerError(NULL, 502)
+#1 /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php(96): Razorpay\Api\Request->verifyErrorFormat(NULL, 502)
+#2 /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(NULL, 502, Object(Requests_Response))
+#3 /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#4 /home/apnakira/public_html/rozerpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'orders/', Array)
+#5 /home/apnakira/public_html/rozerpay/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#6 /home/apnakir in /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php on line 131
+[04-Sep-2020 09:37:31 America/New_York] PHP Fatal error:  Uncaught exception 'Razorpay\Api\Errors\ServerError' with message 'The server did not send back a well-formed response. 
+Server Response: ' in /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php:131
+Stack trace:
+#0 /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php(193): Razorpay\Api\Request->throwServerError(NULL, 502)
+#1 /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php(96): Razorpay\Api\Request->verifyErrorFormat(NULL, 502)
+#2 /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(NULL, 502, Object(Requests_Response))
+#3 /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#4 /home/apnakira/public_html/rozerpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'orders/', Array)
+#5 /home/apnakira/public_html/rozerpay/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#6 /home/apnakir in /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php on line 131
+[04-Sep-2020 09:38:43 America/New_York] PHP Fatal error:  Uncaught exception 'Requests_Exception' with message 'cURL error 28: Operation timed out after 60001 milliseconds with 0 bytes received' in /home/apnakira/public_html/rozerpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/apnakira/public_html/rozerpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/apnakira/public_html/rozerpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/apnakira/public_html/rozerpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/apnakira/public_html/rozerpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'orders/', Array)
+#4 /home/apnakira/public_html/rozerpay/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#5 /home/apnakira/pu in /home/apnakira/public_html/rozerpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
